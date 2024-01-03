@@ -1,0 +1,14 @@
+---
+# Runtime Settings
+
+host: https://www.google.com
+users: 2
+spawn-rate: 1
+run-time: 5s
+headless: true
+only-summary: true
+
+
+
+# run the locust file by just specifying the file name: locust -f logging.py or specifying the file name if the config
+# file is not in the project root:  locust -f logging.py --config=myLocust.yaml

@@ -1,0 +1,13 @@
+[2023-07-23 09:42:44,737] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.main: Run time limit set to 10 seconds
+[2023-07-23 09:42:44,737] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.main: Starting Locust 2.15.1
+[2023-07-23 09:42:44,739] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-07-23 09:42:44,739] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.runners: All users spawned: {"LoadTest": 1} (1 total users)
+[2023-07-23 09:42:45,762] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:47,005] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:48,629] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:49,957] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:51,410] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:52,723] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:54,056] Luis-Gonzalez-Flores-MacBook-Pro/INFO/root: Home Page load success
+[2023-07-23 09:42:54,312] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.main: --run-time limit reached, shutting down
+[2023-07-23 09:42:54,313] Luis-Gonzalez-Flores-MacBook-Pro/INFO/locust.main: Shutting down (exit code 0)
